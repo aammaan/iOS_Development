@@ -1,12 +1,24 @@
-# IOS_Development
-These are some projects which I created while learning IOS Development:
+# iOS Development Projects
 
-BMI Calculator: This is a basic BMI calculator which will tell whether your BMI is good or not and will recommend some things that whether you should eat some more pies or not.
+This repository contains a collection of projects created while learning iOS development. Each project showcases different aspects of app development using Swift and Xcode.
 
-Destini: In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+## Projects Overview
 
-EggTimer: Build a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+### BMI Calculator
+A basic BMI calculator app that evaluates whether your Body Mass Index is within a healthy range and provides recommendations based on the result.
 
-Quizzler: It is a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple-choice question apps are one of the most popular types of educational apps on the App Store! 
+### Destini
+Create your own adventure game where the storyline unfolds based on user choices. Inspired by interactive storytelling apps like "Life Line," this app engages users in decision-making to shape the narrative.
 
-Xylophone:  This is my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, we’re going to make a colorful XyloPhone app. 
+### EggTimer
+A handy egg timer app designed to help you cook your eggs perfectly, catering to your preferred level of doneness.
+
+### Quizzler
+Test your knowledge with this trivia quiz app. Ideal for educational purposes, it allows customization for various fields of expertise, making learning interactive and engaging.
+
+### Xylophone
+Explore your musical talents with this colorful Xylophone app. Designed to be intuitive and fun, it offers a playful way to create music on your iOS device.
+
+## Getting Started
+
+To run any of these projects, open the project folder in Xcode and build/run the project on a simulator or a physical iOS device.
